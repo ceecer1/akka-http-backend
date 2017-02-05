@@ -18,6 +18,8 @@ https://github.com/spray/spray/tree/master/spray-caching/src/main/scala/spray/ca
 
 This SimpleLRU cache declared with fixed size e.g. 10 will remove the cached value on Last Recently Used manner.
 
+The cache is defined in io.kodeasync.server.util.AkkaServiceProvider
+
 io.kodeasync.server.rest.client.MarvelHttpClient takes care of the comic endpoint
 
 
