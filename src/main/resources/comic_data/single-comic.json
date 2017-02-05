@@ -1,0 +1,139 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "f8f46e3c3a2d61cd466d40f1842e37fdeb989032",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 58527,
+        "digitalId": 0,
+        "title": "Miracleman by Gaiman & Buckingham: The Silver Age (2017) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Neil Gaiman and Mark Buckingham’s unfinished storyline “The Silver Age” begins! Young Miracleman — the lost member of the Miracleman Family — is back! His last memories were of a 1963 world of joy and innocence. Now, he’s been thrust into the 21st century, where his best friends have become gods and monsters. Remastered with stunning new artwork by Mark Buckingham! Including material originally presented in MIRACLEMAN (1985) #23, plus bonus content.",
+        "modified": "2017-01-20T13:37:27-0500",
+        "isbn": "",
+        "upc": "75960608469200111",
+        "diamondCode": "JAN160909",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Neil Gaiman and Mark Buckingham’s unfinished storyline “The Silver Age” begins! Young Miracleman — the lost member of the Miracleman Family — is back! His last memories were of a 1963 world of joy and innocence. Now, he’s been thrust into the 21st century, where his best friends have become gods and monsters. Remastered with stunning new artwork by Mark Buckingham! Including material originally presented in MIRACLEMAN (1985) #23, plus bonus content."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58527",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/58527/miracleman_by_gaiman_buckingham_the_silver_age_2017_1?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/21367",
+          "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2017 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/58528",
+            "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2017) #1 (Noto Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/58529",
+            "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2017) #1 (Sprouse Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-04-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-10T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/5695160d86124",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/5695160d86124",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/71",
+              "name": "Mark Buckingham",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/567",
+              "name": "Neil Gaiman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127653",
+              "name": "cover from Miracleman by Gaiman & Buckingham: The Silver Age (2016) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127654",
+              "name": "story from Miracleman by Gaiman & Buckingham: The Silver Age (2016) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

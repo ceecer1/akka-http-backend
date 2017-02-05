@@ -1,0 +1,2220 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "0af4660aac23df9b153c5209b1e57fa53f0dfa66",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 38917,
+    "count": 20,
+    "results": [
+      {
+        "id": 43092,
+        "digitalId": 0,
+        "title": "Brilliant (2011) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "From the award-winning creators behind ULTIMATE SPIDER-MAN and AVENGERS ASSEMBLE comes the shocking creator-owned series that gives you something very different than a regular superhero comic and asks the question: How would the world react if a group of brilliant college students actually discovered the secret of superpowers? Well now, the secret is out!",
+        "modified": "2016-05-16T09:04:21-0400",
+        "isbn": "",
+        "upc": "75960607683300711",
+        "diamondCode": "JUN120706",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "From the award-winning creators behind ULTIMATE SPIDER-MAN and AVENGERS ASSEMBLE comes the shocking creator-owned series that gives you something very different than a regular superhero comic and asks the question: How would the world react if a group of brilliant college students actually discovered the secret of superpowers? Well now, the secret is out!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43092",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43092/brilliant_2011_7?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/14803",
+          "name": "Brilliant (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-12-17T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.95
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4fb2a4aa018c6",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4fb2a4aa018c6",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43092/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43092/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43092/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/96761",
+              "name": "Cover #96761",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/96762",
+              "name": "Interior #96762",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43092/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 41530,
+        "digitalId": 0,
+        "title": "Ant-Man: So (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "It's the origin of the original Avenger, Ant-Man! Hank Pym has been known by a variety of names - including Ant-Man, Giant-Man, Goliath and Yellowjacket - he's been an innovative scientist, a famed super hero, an abusive spouse and more. What demons drive a man like Hank Pym? And how did he begin his heroic career? ",
+        "modified": "2012-09-25T18:05:58-0400",
+        "isbn": "978-0-7851-6390-9",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 163909 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 136,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's the origin of the original Avenger, Ant-Man! Hank Pym has been known by a variety of names - including Ant-Man, Giant-Man, Goliath and Yellowjacket - he's been an innovative scientist, a famed super hero, an abusive spouse and more. What demons drive a man like Hank Pym? And how did he begin his heroic career? "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41530",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/41530/ant-man_so_trade_paperback?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ant-Man-So-0/digital-comic/27157?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/15481",
+          "name": "Ant-Man: So (2011 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4fe8cb51f32e0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4fe8cb51f32e0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41530/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41530/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41530/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93946",
+              "name": "Cover #93946",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93947",
+              "name": "Interior #93947",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/41530/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58527,
+        "digitalId": 0,
+        "title": "Miracleman by Gaiman & Buckingham: The Silver Age (2017) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Neil Gaiman and Mark Buckingham’s unfinished storyline “The Silver Age” begins! Young Miracleman — the lost member of the Miracleman Family — is back! His last memories were of a 1963 world of joy and innocence. Now, he’s been thrust into the 21st century, where his best friends have become gods and monsters. Remastered with stunning new artwork by Mark Buckingham! Including material originally presented in MIRACLEMAN (1985) #23, plus bonus content.",
+        "modified": "2017-01-20T13:37:27-0500",
+        "isbn": "",
+        "upc": "75960608469200111",
+        "diamondCode": "JAN160909",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Neil Gaiman and Mark Buckingham’s unfinished storyline “The Silver Age” begins! Young Miracleman — the lost member of the Miracleman Family — is back! His last memories were of a 1963 world of joy and innocence. Now, he’s been thrust into the 21st century, where his best friends have become gods and monsters. Remastered with stunning new artwork by Mark Buckingham! Including material originally presented in MIRACLEMAN (1985) #23, plus bonus content."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58527",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/58527/miracleman_by_gaiman_buckingham_the_silver_age_2017_1?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/21367",
+          "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2017 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/58528",
+            "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2017) #1 (Noto Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/58529",
+            "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2017) #1 (Sprouse Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-04-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-10T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/5695160d86124",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/5695160d86124",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/71",
+              "name": "Mark Buckingham",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/567",
+              "name": "Neil Gaiman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127653",
+              "name": "cover from Miracleman by Gaiman & Buckingham: The Silver Age (2016) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127654",
+              "name": "story from Miracleman by Gaiman & Buckingham: The Silver Age (2016) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58527/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60509,
+        "digitalId": 0,
+        "title": "All-New Wolverine (2015) #19",
+        "issueNumber": 19,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2017-01-18T11:57:03-0500",
+        "isbn": "",
+        "upc": "75960608359601911",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60509",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60509/all-new_wolverine_2015_19?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20682",
+          "name": "All-New Wolverine (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-04-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-03-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60509/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60509/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60509/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60509/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60534,
+        "digitalId": 0,
+        "title": "Amazing Spider-Man (2015) #26",
+        "issueNumber": 26,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2017-01-18T12:00:57-0500",
+        "isbn": "",
+        "upc": "75960608297102611",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60534",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60534/amazing_spider-man_2015_26?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20432",
+          "name": "Amazing Spider-Man (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-04-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-03-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60534/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60534/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60534/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60534/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58533,
+        "digitalId": 0,
+        "title": "Miracleman by Gaiman & Buckingham: The Silver Age (2017) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "The wait is over! Neil Gaiman and Mark Buckingham present the story you’ve waited decades for — the first ALL-NEW chapter in “The Silver Age!” High atop the Himalayas, Dicky Dauntless searches to find his place in the Age of Miracles. He’ll make new friends and encounter a frightening, familiar face — Johnny Bates! It’s Young Miracleman and Kid Miracleman face-to-face!",
+        "modified": "2016-11-30T14:46:46-0500",
+        "isbn": "",
+        "upc": "75960608469200311",
+        "diamondCode": "FEB160926",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The wait is over! Neil Gaiman and Mark Buckingham present the story you’ve waited decades for — the first ALL-NEW chapter in “The Silver Age!” High atop the Himalayas, Dicky Dauntless searches to find his place in the Age of Miracles. He’ll make new friends and encounter a frightening, familiar face — Johnny Bates! It’s Young Miracleman and Kid Miracleman face-to-face!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58533",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/58533/miracleman_by_gaiman_buckingham_the_silver_age_2017_3?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/21367",
+          "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2017 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-03-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-03-14T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/20/5698071874442",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/20/5698071874442",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58533/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58533/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58533/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127665",
+              "name": "cover from Miracleman by Gaiman & Buckingham: The Silver Age (2016) #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/58533/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60740,
+        "digitalId": 0,
+        "title": "Old Man Logan (2016) #20",
+        "issueNumber": 20,
+        "variantDescription": "",
+        "description": "OUT OF THE FRYING PAN...AND INTO NEW JERSEY! Trying to correct a mistake from his past, LOGAN has been forced to resort to teaming up with a past adversary! Will Logan learn to heed his friends' warnings about mixing magic and time travel? Guest-starring MILES MORALES, SPIDER-MAN!",
+        "modified": "2017-02-01T16:04:27-0500",
+        "isbn": "",
+        "upc": "75960608336702011",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "OUT OF THE FRYING PAN...AND INTO NEW JERSEY! Trying to correct a mistake from his past, LOGAN has been forced to resort to teaming up with a past adversary! Will Logan learn to heed his friends' warnings about mixing magic and time travel? Guest-starring MILES MORALES, SPIDER-MAN!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60740",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60740/old_man_logan_2016_20?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20617",
+          "name": "Old Man Logan (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-03-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-03-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58924c0663c30",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58924c0663c30",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60740/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12471",
+              "name": "Filipe Andrade",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+              "name": "Jeff Lemire",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12462",
+              "name": "Andrea Sorrentino",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60740/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60740/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131949",
+              "name": "cover from Old Man Logan (2016) #20",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131950",
+              "name": "story from Old Man Logan (2016) #20",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60740/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57224,
+        "digitalId": 0,
+        "title": "The Punisher (2016) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": "AGENT OF DESTRUCTION! Agent Ortiz is no longer hunting Frank with the D.E.A. Now, as they say, it’s personal. Agent Ortiz is now up against both the Punisher and an entire deadly mercenary outfit. Agent Ortiz might be in trouble.",
+        "modified": "2017-01-31T15:11:06-0500",
+        "isbn": "",
+        "upc": "75960608413501011",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "AGENT OF DESTRUCTION! Agent Ortiz is no longer hunting Frank with the D.E.A. Now, as they say, it’s personal. Agent Ortiz is now up against both the Punisher and an entire deadly mercenary outfit. Agent Ortiz might be in trouble."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57224",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57224/the_punisher_2016_10?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20879",
+          "name": "The Punisher (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-03-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-02-20T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/581caf4f18d34",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/58821346aee42",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/581caf4f18d34",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57224/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8094",
+              "name": "Becky Cloonan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12966",
+              "name": "Matt Horak",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+              "name": "Declan Shalvey",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+              "name": "Jacob Thomas",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57224/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57224/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125265",
+              "name": "cover from The Punisher (2016) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125266",
+              "name": "story from The Punisher (2016) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57224/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60980,
+        "digitalId": 0,
+        "title": "Guardians of the Galaxy (2015) #18",
+        "issueNumber": 18,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2017-01-19T15:54:51-0500",
+        "isbn": "",
+        "upc": "75960608303901811",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60980",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60980/guardians_of_the_galaxy_2015_18?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20465",
+          "name": "Guardians of the Galaxy (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-03-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-02-22T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/5881277475342",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/5881277475342",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60980/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60980/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60980/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132413",
+              "name": "cover from Guardians of the Galaxy (2015) #18",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60980/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60754,
+        "digitalId": 0,
+        "title": "Power Man and Iron Fist (2016) #14",
+        "issueNumber": 14,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2017-01-19T15:56:42-0500",
+        "isbn": "",
+        "upc": "75960608455501411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60754",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60754/power_man_and_iron_fist_2016_14?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/21122",
+          "name": "Power Man and Iron Fist (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-03-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-02-22T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/588127c1961a3",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/588127c1961a3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60754/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+              "name": "Jacob Thomas",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60754/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60754/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131977",
+              "name": "cover from Power Man and Iron Fist (2016) #14",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60754/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 61261,
+        "digitalId": 0,
+        "title": "Bullseye (2017) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "MONEY, TORTURE, MURDER! Rescuing a mobster's son from a drug cartel isn't easy...Bullseye just makes it look that way!",
+        "modified": "2017-01-31T11:31:16-0500",
+        "isbn": "",
+        "upc": "759606085911000211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MONEY, TORTURE, MURDER! Rescuing a mobster's son from a drug cartel isn't easy...Bullseye just makes it look that way!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/61261",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/61261/bullseye_2017_2?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/22530",
+          "name": "Bullseye (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-03-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-02-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/5890bb4161910",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/5890bb4161910",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61261/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12699",
+              "name": "Ed Brisson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+              "name": "Dave Johnson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12968",
+              "name": "Guillermo Sanna",
+              "role": "penciller"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61261/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009212",
+              "name": "Bullseye"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61261/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132926",
+              "name": "cover from Daredevil (2016) #1.2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132927",
+              "name": "story from Daredevil (2016) #1.2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61261/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57245,
+        "digitalId": 0,
+        "title": "Thunderbolts (2016) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": "Once upon a time the Thunderbolts were the Masters of Evil…and if Baron Zemo has his way, their legacy will be reclaimed…with the infinite power of a Cosmic Cube! Captain America’s plan for Bucky and Kobik begins to unfold. “Return of the Masters,” the Thunderbolts 20th anniversary event, begins here! Along with our pulse-pounding lead story, this special oversized issue includes a brand-new Thunderbolts tale by series co-creators Kurt Busiek and Mark Bagley!",
+        "modified": "2017-01-20T11:34:41-0500",
+        "isbn": "",
+        "upc": "75960608360201011",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Once upon a time the Thunderbolts were the Masters of Evil…and if Baron Zemo has his way, their legacy will be reclaimed…with the infinite power of a Cosmic Cube! Captain America’s plan for Bucky and Kobik begins to unfold. “Return of the Masters,” the Thunderbolts 20th anniversary event, begins here! Along with our pulse-pounding lead story, this special oversized issue includes a brand-new Thunderbolts tale by series co-creators Kurt Busiek and Mark Bagley!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57245",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57245/thunderbolts_2016_10?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20884",
+          "name": "Thunderbolts (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/58823aed48436",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/58823aed48436",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57245/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+              "name": "Kurt Busiek",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12390",
+              "name": "Jim Zub",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8814",
+              "name": "Jon Malin",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57245/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57245/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125307",
+              "name": "cover from Thunderbolts (2016) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125308",
+              "name": "story from Thunderbolts (2016) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57245/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55451,
+        "digitalId": 0,
+        "title": "Extraordinary X-Men (2015) #19",
+        "issueNumber": 19,
+        "variantDescription": "",
+        "description": "AN INHUMANS vs. X-MEN TIE-IN! Mutant sorceress MAGIK is a key player in the mutants’ plan to conquer the Inhuman capital, New Attilan. But when her own demons threaten to surface, will Magik lose her grip on the city…and also herself?",
+        "modified": "2017-01-20T13:05:56-0500",
+        "isbn": "",
+        "upc": "75960608302201911",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "AN INHUMANS vs. X-MEN TIE-IN! Mutant sorceress MAGIK is a key player in the mutants’ plan to conquer the Inhuman capital, New Attilan. But when her own demons threaten to surface, will Magik lose her grip on the city…and also herself?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55451",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55451/extraordinary_x-men_2015_19?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20460",
+          "name": "Extraordinary X-Men (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/588250e01edd7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/588250e01edd7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55451/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+              "name": "Daniel Ketchum",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12950",
+              "name": "Eric Koda",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+              "name": "Jeff Lemire",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/789",
+              "name": "David Yardin",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55451/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55451/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121945",
+              "name": "cover from Extraordinary X-Men (2015) #19",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121946",
+              "name": "story from Extraordinary X-Men (2015) #19",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55451/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60714,
+        "digitalId": 0,
+        "title": "Moon Girl and Devil Dinosaur (2015) #16",
+        "issueNumber": 16,
+        "variantDescription": "",
+        "description": "Lunella Lafayette is unequivocally the smartest PERSON (regardless of gender) in the world! Your faves could never! But that won’t stop them from putting Lunella to the test...case in point: Marvel’s mighty mystic Doctor Stephen Strange stops by to see what’s so magical about this little girl from Yancy Street.",
+        "modified": "2017-01-20T13:21:35-0500",
+        "isbn": "",
+        "upc": "759606084051001611",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Lunella Lafayette is unequivocally the smartest PERSON (regardless of gender) in the world! Your faves could never! But that won’t stop them from putting Lunella to the test...case in point: Marvel’s mighty mystic Doctor Stephen Strange stops by to see what’s so magical about this little girl from Yancy Street."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60714",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60714/moon_girl_and_devil_dinosaur_2015_16?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20839",
+          "name": "Moon Girl and Devil Dinosaur (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/588254ad5cf67",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/588254ad5cf67",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60714/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11347",
+              "name": "Brandon Montclare",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12785",
+              "name": "Amy Reeder",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60714/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60714/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131897",
+              "name": "cover from Moon Girl and Devil Dinosaur (2015) #16",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131898",
+              "name": "story from Moon Girl and Devil Dinosaur (2015) #16",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60714/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60293,
+        "digitalId": 0,
+        "title": "Enchanted Tiki Room (2016) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "A TIKI CATASTROPHE! This issue has it all! Well, not ALL of it, but a lot of it, as the fates of the Tiki Room natives and visitors collide in an uproarious finale! When one of the MACAWS goes missing, the others will need to band together like never before…but do they have what it takes to work as a team, or will they have to replace their brother with an animatronic substitute? And: the reveal of the mystery visitor’s secret mission! Also: ORANGE BIRD! Don’t miss the enchanting conclusion to the all-new story inspired by the legendary Disney attraction!",
+        "modified": "2017-01-17T15:18:03-0500",
+        "isbn": "",
+        "upc": "75960608564400511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A TIKI CATASTROPHE! This issue has it all! Well, not ALL of it, but a lot of it, as the fates of the Tiki Room natives and visitors collide in an uproarious finale! When one of the MACAWS goes missing, the others will need to band together like never before…but do they have what it takes to work as a team, or will they have to replace their brother with an animatronic substitute? And: the reveal of the mystery visitor’s secret mission! Also: ORANGE BIRD! Don’t miss the enchanting conclusion to the all-new story inspired by the legendary Disney attraction!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60293",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60293/enchanted_tiki_room_2016_5?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/22192",
+          "name": "Enchanted Tiki Room (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/587e7b15bbc9b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/587e7b15bbc9b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60293/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12590",
+              "name": "Jon Adams",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+              "name": "Mark Basso",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7528",
+              "name": "HORACIO DOMINGUES",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12704",
+              "name": "Brian Kesinger",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60293/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60293/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131061",
+              "name": "cover from Enchanted Tiki Room (2016) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131062",
+              "name": "story from Enchanted Tiki Room (2016) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60293/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 61308,
+        "digitalId": 0,
+        "title": "Prowler (2016) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "A CLONE CONSPIRACY TIE-IN! For months, the Jackal has been resurrecting superhumans in secret, including THE PROWLER, who’s been operating as his right-hand man! But as the Jackal’s carefully-stacked house of cards starts to tumble, some of the super villains he’s brought back to life will try to settle some old scores with Jackal’s favorite deputy…",
+        "modified": "2017-01-19T11:53:08-0500",
+        "isbn": "",
+        "upc": "75960608592700511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A CLONE CONSPIRACY TIE-IN! For months, the Jackal has been resurrecting superhumans in secret, including THE PROWLER, who’s been operating as his right-hand man! But as the Jackal’s carefully-stacked house of cards starts to tumble, some of the super villains he’s brought back to life will try to settle some old scores with Jackal’s favorite deputy…"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/61308",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/61308/prowler_2016_5?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/22535",
+          "name": "Prowler (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5880ed8ae8d42",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5880ed8ae8d42",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61308/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12472",
+              "name": "Jamal Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/641",
+              "name": "Javier Saltares",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/735",
+              "name": "Travel Foreman",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+              "name": "Edward Devin Lewis",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9432",
+              "name": "Sean Ryan",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61308/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61308/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/133020",
+              "name": "cover from Prowler (2016) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/133021",
+              "name": "story from Prowler (2016) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61308/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57163,
+        "digitalId": 0,
+        "title": "Ghost Rider (2016) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "“FOUR ON THE FLOOR” CONTINUES! That purple monster from space is STILL wreaking havoc across the West Coast…and even the combined efforts of the Hulk, Wolverine, and Silk can’t stop it! Time for the Ghost Rider to clean up their mess…Guest-starring the AGENTS OF S.H.I.E.L.D.!",
+        "modified": "2017-01-19T14:32:10-0500",
+        "isbn": "",
+        "upc": "75960608357200411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“FOUR ON THE FLOOR” CONTINUES! That purple monster from space is STILL wreaking havoc across the West Coast…and even the combined efforts of the Hulk, Wolverine, and Silk can’t stop it! Time for the Ghost Rider to clean up their mess…Guest-starring the AGENTS OF S.H.I.E.L.D.!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57163",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57163/ghost_rider_2016_4?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20866",
+          "name": "Ghost Rider (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/588113476dd48",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/588113476dd48",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57163/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12790",
+              "name": "Danilo Beyruth",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12411",
+              "name": "Felipe Smith",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57163/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57163/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125143",
+              "name": "cover from Ghost Rider (2016) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125144",
+              "name": "story from Ghost Rider (2016) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57163/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 62605,
+        "digitalId": 0,
+        "title": "Hulk (2016) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Jen’s life is finally settling into a rhythm: She wakes up, goes to work, helps her new clients, goes home, watches a cooking video, and goes to sleep. But when a murder rocks the life of one of her newest clients, how will Jen react? Is there more to the situation than just Jen Walters, lawyer, can handle? Will she need the HULK to get herself out of this jam?",
+        "modified": "2017-01-20T13:18:04-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Jen’s life is finally settling into a rhythm: She wakes up, goes to work, helps her new clients, goes home, watches a cooking video, and goes to sleep. But when a murder rocks the life of one of her newest clients, how will Jen react? Is there more to the situation than just Jen Walters, lawyer, can handle? Will she need the HULK to get herself out of this jam?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/62605",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/62605/hulk_2016_3?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/22580",
+          "name": "Hulk (2016 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/588252a8503af",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/588252a8503af",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/62605/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12484",
+              "name": "Jeff Dekal",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12696",
+              "name": "Nico Leon",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12945",
+              "name": "Mariko Tamaki",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/62605/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/62605/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/136391",
+              "name": "cover from Hulk (2016) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/136392",
+              "name": "story from Hulk (2016) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/62605/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 60138,
+        "digitalId": 0,
+        "title": "Scarlet Witch (2015) #15",
+        "issueNumber": 15,
+        "variantDescription": "",
+        "description": "WITCHCRAFT IS SAFE! BUT WHAT DOES THAT MEAN FOR WANDA? Witchcraft has been saved. Now Wanda has an even harder thing ahead of her – planning her life now her task is done. But first she must face a witch-demon who possesses a young boy with a bloodline connection to witches of yore. Join us as Wanda must battle evil both in present-day New York…and Havana, Cuba in 1954!!",
+        "modified": "2017-01-19T12:16:00-0500",
+        "isbn": "",
+        "upc": "75960608355801511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "WITCHCRAFT IS SAFE! BUT WHAT DOES THAT MEAN FOR WANDA? Witchcraft has been saved. Now Wanda has an even harder thing ahead of her – planning her life now her task is done. But first she must face a witch-demon who possesses a young boy with a bloodline connection to witches of yore. Join us as Wanda must battle evil both in present-day New York…and Havana, Cuba in 1954!!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/60138",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/60138/scarlet_witch_2015_15?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20854",
+          "name": "Scarlet Witch (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5880f36c29915",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5880f36c29915",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60138/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+              "name": "David Aja",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12767",
+              "name": "Vanesa Del Rey",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+              "name": "James Robinson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12341",
+              "name": "Emily Shaw",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60138/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60138/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/130785",
+              "name": "cover from Scarlet Witch (2015) #15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/130786",
+              "name": "story from Scarlet Witch (2015) #15",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/60138/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 61063,
+        "digitalId": 0,
+        "title": "Spider-Gwen (2015) #17",
+        "issueNumber": 17,
+        "variantDescription": "",
+        "description": "“SITTING IN A TREE” PART 4! Who is the mysterious villain threatening Miles’ universe all the way from Gwen’s universe?!",
+        "modified": "2017-01-20T11:25:23-0500",
+        "isbn": "",
+        "upc": "75960608313801711",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“SITTING IN A TREE” PART 4! Who is the mysterious villain threatening Miles’ universe all the way from Gwen’s universe?!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/61063",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/61063/spider-gwen_2015_17?utm_campaign=apiRef&utm_source=2f5b29ee88fae05cd1a863ce1cd595ae"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20505",
+          "name": "Spider-Gwen (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-02-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-01-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5882390cd77a1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5882390cd77a1",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61063/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11306",
+              "name": "Jason Latour",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12399",
+              "name": "Robbi Rodriguez",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61063/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61063/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132579",
+              "name": "cover from Spider-Gwen (2015) #17",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132580",
+              "name": "story from Spider-Gwen (2015) #17",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61063/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
