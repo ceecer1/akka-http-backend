@@ -3,6 +3,9 @@ This backend Scala application is based on Akka-Http
 
 The main class to run is io.kodeasync.server.boot.Server
 
+Running from terminal:
+sbt run
+
 REST End Point exposed: http://localhost:8080/comics
 This endpoint feeds an array of comic id.
 Clients can do a POST request to the above end point with sample data [57245, 61308] with header
