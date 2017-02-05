@@ -22,3 +22,5 @@ io.kodeasync.server.rest.client.MarvelHttpClient takes care of the comic endpoin
 
 
 On key press, the server will gracefully shutdown.
+
+This repository lacks unit tests.
