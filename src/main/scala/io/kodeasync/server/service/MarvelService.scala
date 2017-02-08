@@ -74,10 +74,9 @@ trait DefaultMarvelHttpComponent extends MarvelHttpComponent with MarvelHttpClie
       }
 
       //Get from cache if exists
-      val comic = cache.get(comicId)
-      comic.isDefined match {
-        case true => comic.get
-        case false => Future(getComicFromHttpRequest(comicId, currentTs, hash))
+      cache.get(comicId) match {
+        case Some(futureInfo) => futureInfo
+        case None => Future(getComicFromHttpRequest(comicId, currentTs, hash))
       }
     }
 
