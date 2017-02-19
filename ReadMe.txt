@@ -1,5 +1,5 @@
 ################--RUNNING THE APPLICATION--#################
-This backend Scala application is based on Akka-Http
+#akka-http #caching #spray-cache #http-proxy
 
 The main class to run is io.kodeasync.server.boot.Server
 
